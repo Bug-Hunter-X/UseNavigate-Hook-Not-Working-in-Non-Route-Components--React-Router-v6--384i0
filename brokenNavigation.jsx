@@ -1,0 +1,1 @@
+In React Router Dom v6,  using `useNavigate` hook within a component that's not directly rendered by a route can lead to unexpected behavior.  The `navigate` function might not work as intended, failing silently or causing errors.
